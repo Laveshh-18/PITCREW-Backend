@@ -72,27 +72,26 @@
     ]
   },
   {
-    "id": "ward-4",
-    "name": "Ward 4",
-    "center_lat": 26.8275,
-    "center_lng": 75.825
-    ,
+    "id": "jaipur-service-area",
+    "name": "Jaipur Service Area",
+    "center_lat": 26.9124,
+    "center_lng": 75.7873,
     "boundary": [
       {
-        "lat": 26.75,
-        "lng": 75.75
+        "lat": 26.70,
+        "lng": 75.60
       },
       {
-        "lat": 26.905,
-        "lng": 75.75
+        "lat": 27.08,
+        "lng": 75.60
       },
       {
-        "lat": 26.905,
-        "lng": 75.9
+        "lat": 27.08,
+        "lng": 76.05
       },
       {
-        "lat": 26.75,
-        "lng": 75.9
+        "lat": 26.70,
+        "lng": 76.05
       }
     ]
   }
