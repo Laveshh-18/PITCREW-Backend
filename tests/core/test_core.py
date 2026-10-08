@@ -1,7 +1,11 @@
+import json
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
+from app.services.ingest import ward_for
 from core.compare import compare
 from core.fusion import recompute_pothole
+from core.geo import point_in_polygon
 from core.models import POI, Complaint, Crew, KnownPhotoHash, Pothole, SensorEvent
 from core.priority import rank_queue
 from core.scheduler import fcfs_plan, plan_day
@@ -10,6 +14,34 @@ from core.verification import verify_photo_metadata
 
 NOW = datetime(2026, 10, 8, 9, 30, tzinfo=timezone.utc)
 LAT, LNG = 26.9124, 75.7873
+
+
+def test_jaipur_district_service_area_and_ward_assignment():
+    fixture = Path(__file__).resolve().parents[2] / "fixtures" / "wards.json"
+    wards = json.loads(fixture.read_text(encoding="utf-8"))
+    jaipur = next(ward for ward in wards if ward["id"] == "ward-jaipur")
+    boundary = jaipur["boundary"]
+
+    inside = [
+        (26.788804, 75.834247),
+        (26.787531, 75.831398),
+        (26.68, 76.04),
+        (26.9124, 75.7873),
+        (26.85, 75.80),
+        (27.0, 75.9),
+    ]
+    outside = [
+        (28.61, 77.21),
+        (26.4499, 74.6399),
+        (27.18, 78.02),
+    ]
+
+    assert all(point_in_polygon(lat, lng, boundary) for lat, lng in inside)
+    assert not any(point_in_polygon(lat, lng, boundary) for lat, lng in outside)
+    assert ward_for(wards, 26.9124, 75.7873) == "ward-1"
+    assert ward_for(wards, 26.91175, 75.80265) == "ward-2"
+    assert ward_for(wards, 26.92525, 75.78755) == "ward-3"
+    assert ward_for(wards, 26.68, 76.04) == "ward-jaipur"
 
 
 def _verify(**kw):
