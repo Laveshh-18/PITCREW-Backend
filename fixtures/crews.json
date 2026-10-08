@@ -1,0 +1,26 @@
+[
+  {
+    "id": "crew-a",
+    "name": "Crew A",
+    "color_index": 0,
+    "shift_minutes": 480,
+    "depot_lat": 26.91175,
+    "depot_lng": 75.78755
+  },
+  {
+    "id": "crew-b",
+    "name": "Crew B",
+    "color_index": 1,
+    "shift_minutes": 480,
+    "depot_lat": 26.91175,
+    "depot_lng": 75.80265
+  },
+  {
+    "id": "crew-c",
+    "name": "Crew C",
+    "color_index": 2,
+    "shift_minutes": 480,
+    "depot_lat": 26.92525,
+    "depot_lng": 75.78755
+  }
+]

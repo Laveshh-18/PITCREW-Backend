@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b649149c-c952-500b-bb3f-d8660e0fdf0e",
+    "type": "school",
+    "name": "Govt Sr. Sec. School",
+    "lat": 26.912796,
+    "lng": 75.783228,
+    "ward_id": "ward-1"
+  },
+  {
+    "id": "989d910a-0de6-5fc8-bffe-33535f276d6d",
+    "type": "school",
+    "name": "Adarsh Vidya Mandir",
+    "lat": 26.910063,
+    "lng": 75.800131,
+    "ward_id": "ward-2"
+  },
+  {
+    "id": "ee4c7a03-30e5-5770-bb63-4d3f2a21cb26",
+    "type": "school",
+    "name": "St. Xavier's Public School",
+    "lat": 26.927024,
+    "lng": 75.789158,
+    "ward_id": "ward-3"
+  },
+  {
+    "id": "1b6910b9-9ca4-5ac4-9f41-83bcea00109e",
+    "type": "school",
+    "name": "Saraswati Shishu Mandir",
+    "lat": 26.914691,
+    "lng": 75.783791,
+    "ward_id": "ward-1"
+  },
+  {
+    "id": "60cf7500-b713-5a15-8ceb-5651b6f0b687",
+    "type": "hospital",
+    "name": "City Care Hospital",
+    "lat": 26.911164,
+    "lng": 75.798371,
+    "ward_id": "ward-2"
+  },
+  {
+    "id": "bb41a363-7103-586d-b4f4-48825ea86165",
+    "type": "hospital",
+    "name": "Community Health Centre",
+    "lat": 26.92314,
+    "lng": 75.787599,
+    "ward_id": "ward-3"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "client_request_id": "8128ba2b-8baa-5a23-8d64-5eb1169fc36b",
+    "text": "Deep waterlogged pothole, tyre burst, dangerous for children",
+    "lat": 26.913359,
+    "lng": 75.783859,
+    "road_class": "secondary",
+    "hours_ago": 271.4,
+    "photo_verification": "verified",
+    "photo_score": 0.711
+  },
+  {
+    "client_request_id": "c5ebd5ee-cbee-55eb-bace-5db8b2e82d03",
+    "text": "Huge deep crater near school gate, a bike skidded and rider injured",
+    "lat": 26.910802,
+    "lng": 75.80096,
+    "road_class": "secondary",
+    "hours_ago": 278.9,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "14610667-05f0-5e20-9fb4-7945ba4715cd",
+    "text": "Large crater on main road, scooter fell, very dangerous",
+    "lat": 26.927856,
+    "lng": 75.79009,
+    "road_class": "main",
+    "hours_ago": 237.0,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "b54fc7f4-2b60-5a3f-a01b-9e7a3ea788d7",
+    "text": "Deep waterlogged pothole, tyre burst, dangerous for children",
+    "lat": 26.914504,
+    "lng": 75.783582,
+    "road_class": "main",
+    "hours_ago": 287.5,
+    "photo_verification": "verified",
+    "photo_score": 0.807
+  },
+  {
+    "client_request_id": "a0b26389-fcc3-5110-a24e-51d7f06c167d",
+    "text": "Deep waterlogged pothole, tyre burst, dangerous for children",
+    "lat": 26.911727,
+    "lng": 75.799002,
+    "road_class": "main",
+    "hours_ago": 125.0,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "d84d81ac-d96a-55ed-9922-ff837f979f92",
+    "text": "Huge deep crater near school gate, a bike skidded and rider injured",
+    "lat": 26.923511,
+    "lng": 75.788015,
+    "road_class": "main",
+    "hours_ago": 179.9,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "ae28e717-e76b-566c-a2f3-1a20af63f86e",
+    "text": "gehra gadda, bada khatarnak, accident ho gaya",
+    "lat": 26.913207,
+    "lng": 75.783689,
+    "road_class": "secondary",
+    "hours_ago": 332.5,
+    "photo_verification": "unverified",
+    "photo_score": 0.648
+  },
+  {
+    "client_request_id": "7df10584-8be5-5b42-bc78-7813c2c5da00",
+    "text": "Huge deep crater near school gate, a bike skidded and rider injured",
+    "lat": 26.910825,
+    "lng": 75.800986,
+    "road_class": "main",
+    "hours_ago": 276.3,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "b72aa0c9-0a7c-57c0-b895-4d4c5cdbf629",
+    "text": "Deep waterlogged pothole, tyre burst, dangerous for children",
+    "lat": 26.928066,
+    "lng": 75.790326,
+    "road_class": "main",
+    "hours_ago": 71.7,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "44ebbf02-3781-5b61-bb84-963f24614301",
+    "text": "Very dangerous big pothole, accident at night",
+    "lat": 26.915888,
+    "lng": 75.785133,
+    "road_class": "secondary",
+    "hours_ago": 133.5,
+    "photo_verification": "verified",
+    "photo_score": 0.84
+  },
+  {
+    "client_request_id": "4ea02410-4ec4-5f0c-b0f4-e10b2c0584ec",
+    "text": "Very dangerous big pothole, accident at night",
+    "lat": 26.911816,
+    "lng": 75.799102,
+    "road_class": "main",
+    "hours_ago": 250.6,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "e4adcf7e-089a-5e6b-bab0-e0eb9e25ad28",
+    "text": "Large crater on main road, scooter fell, very dangerous",
+    "lat": 26.923882,
+    "lng": 75.788431,
+    "road_class": "secondary",
+    "hours_ago": 122.3,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "d4721f34-9c2b-5396-9acc-b0685d3e758d",
+    "text": "Large crater on main road, scooter fell, very dangerous",
+    "lat": 26.911538,
+    "lng": 75.781817,
+    "road_class": "secondary",
+    "hours_ago": 31.5,
+    "photo_verification": "verified",
+    "photo_score": 0.233
+  },
+  {
+    "client_request_id": "2c557353-eb39-5858-8c39-78c0e589d0e7",
+    "text": "chota gaddha sadak par",
+    "lat": 26.907619,
+    "lng": 75.78296,
+    "road_class": "lane",
+    "hours_ago": 200.8,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "f3d16ab4-50e1-53fd-8e2b-5954bcb6be08",
+    "text": "Small crack on the road surface",
+    "lat": 26.910341,
+    "lng": 75.809348,
+    "road_class": "secondary",
+    "hours_ago": 326.3,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "5c365973-bc6d-5cd7-8c61-b31e7f748be1",
+    "text": "Small crack on the road surface",
+    "lat": 26.913895,
+    "lng": 75.782346,
+    "road_class": "secondary",
+    "hours_ago": 258.5,
+    "photo_verification": "verified",
+    "photo_score": 0.438
+  },
+  {
+    "client_request_id": "40f50d1e-eb87-5ed0-88ee-a0dcf3d00d0c",
+    "text": "Some road damage near the lane entrance",
+    "lat": 26.910974,
+    "lng": 75.802025,
+    "road_class": "secondary",
+    "hours_ago": 326.6,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "29aad7be-fff5-5a46-b7c7-535adf3839b4",
+    "text": "chota gaddha sadak par",
+    "lat": 26.911841,
+    "lng": 75.782237,
+    "road_class": "secondary",
+    "hours_ago": 283.0,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "2ca5cc29-c2a7-5044-88c2-f25d18882870",
+    "text": "pothole bada hai, raat me dikhta nahi",
+    "lat": 26.926547,
+    "lng": 75.782863,
+    "road_class": "main",
+    "hours_ago": 201.6,
+    "photo_verification": "verified",
+    "photo_score": 0.542
+  },
+  {
+    "client_request_id": "d4062f40-1b11-51cf-99bb-69427480f7d8",
+    "text": "Small crack on the road surface",
+    "lat": 26.916856,
+    "lng": 75.792663,
+    "road_class": "secondary",
+    "hours_ago": 20.4,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "6af4250c-a62a-563a-87e0-cb0140875636",
+    "text": "Some road damage near the lane entrance",
+    "lat": 26.916906,
+    "lng": 75.792663,
+    "road_class": "main",
+    "hours_ago": 328.6,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "b07bce2e-219d-5897-8801-5c99cfba1633",
+    "text": "Some road damage near the lane entrance",
+    "lat": 26.916956,
+    "lng": 75.792663,
+    "road_class": "secondary",
+    "hours_ago": 89.8,
+    "photo_verification": "duplicate",
+    "photo_score": 0.811
+  },
+  {
+    "client_request_id": "25dc70aa-968a-5b9c-8078-446311d75138",
+    "text": "Some road damage near the lane entrance",
+    "lat": 26.917006,
+    "lng": 75.792663,
+    "road_class": "secondary",
+    "hours_ago": 239.8,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "30b345e7-6602-5e1e-b188-dc0a3822c154",
+    "text": "Some road damage near the lane entrance",
+    "lat": 26.917642,
+    "lng": 75.804673,
+    "road_class": "lane",
+    "hours_ago": 41.5,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "13b90be5-794e-5704-bd9d-4c9c70adf24b",
+    "text": "Small crack on the road surface",
+    "lat": 26.906562,
+    "lng": 75.781084,
+    "road_class": "secondary",
+    "hours_ago": 198.1,
+    "photo_verification": "verified",
+    "photo_score": 0.205
+  },
+  {
+    "client_request_id": "337cf78c-d3d5-550e-8a4e-736349abe484",
+    "text": "Big pothole on the road, vehicles slow down",
+    "lat": 26.92681,
+    "lng": 75.783891,
+    "road_class": "secondary",
+    "hours_ago": 24.7,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "f2be6633-590c-536e-8da4-f4da792ec5f5",
+    "text": "Small crack on the road surface",
+    "lat": 26.909114,
+    "lng": 75.787353,
+    "road_class": "secondary",
+    "hours_ago": 243.3,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "65e49328-f6af-5d8b-888d-835c6471010d",
+    "text": "Some road damage near the lane entrance",
+    "lat": 26.926157,
+    "lng": 75.78408,
+    "road_class": "lane",
+    "hours_ago": 64.8,
+    "photo_verification": "mismatch",
+    "photo_score": 0.268
+  },
+  {
+    "client_request_id": "7fe9c6ff-257f-5eea-bf8f-386cdb3a6fa7",
+    "text": "Some road damage near the lane entrance",
+    "lat": 26.910016,
+    "lng": 75.80145,
+    "road_class": "main",
+    "hours_ago": 226.6,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "53a17c0e-659c-575e-8cf9-3c7c0b0728ab",
+    "text": "Minor pothole near the shop",
+    "lat": 26.920471,
+    "lng": 75.786235,
+    "road_class": "main",
+    "hours_ago": 84.3,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "9219b92d-8ed1-5bd2-a360-eca3616e68fe",
+    "text": "pothole bada hai, raat me dikhta nahi",
+    "lat": 26.912182,
+    "lng": 75.782692,
+    "road_class": "secondary",
+    "hours_ago": 156.0,
+    "photo_verification": "verified",
+    "photo_score": 0.812
+  },
+  {
+    "client_request_id": "ef9b0b2c-4c48-5e23-b35b-ab80afa64f1d",
+    "text": "Small crack on the road surface",
+    "lat": 26.911073,
+    "lng": 75.792428,
+    "road_class": "main",
+    "hours_ago": 17.9,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "a58dc562-1f8f-5ad4-ad99-e4c98a5b3d41",
+    "text": "Road damaged, large hole near the turn",
+    "lat": 26.929249,
+    "lng": 75.793881,
+    "road_class": "secondary",
+    "hours_ago": 137.1,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "78b9c0e4-8aac-5806-91e5-a00060f04070",
+    "text": "Big pothole on the road, vehicles slow down",
+    "lat": 26.908344,
+    "lng": 75.801314,
+    "road_class": "secondary",
+    "hours_ago": 128.0,
+    "photo_verification": "unverified",
+    "photo_score": 0.89
+  },
+  {
+    "client_request_id": "d08f48ab-3cce-5acb-87a0-fcf8bbab467c",
+    "text": "Small crack on the road surface",
+    "lat": 26.916826,
+    "lng": 75.806499,
+    "road_class": "lane",
+    "hours_ago": 234.4,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "b5c5438b-452b-5ed3-bf21-5f5684297814",
+    "text": "Some road damage near the lane entrance",
+    "lat": 26.931146,
+    "lng": 75.788303,
+    "road_class": "lane",
+    "hours_ago": 52.9,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "37a95c3b-581b-57b2-90b8-5282a817047c",
+    "text": "Some road damage near the lane entrance",
+    "lat": 26.908391,
+    "lng": 75.79669,
+    "road_class": "main",
+    "hours_ago": 251.6,
+    "photo_verification": "verified",
+    "photo_score": 0.24
+  },
+  {
+    "client_request_id": "c0dd9587-4dc5-5988-ba3c-0b386c5e8b64",
+    "text": "Small crack on the road surface",
+    "lat": 26.924974,
+    "lng": 75.793212,
+    "road_class": "secondary",
+    "hours_ago": 20.1,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "f3da36be-5c96-520f-88ee-a3b5fc4978e6",
+    "text": "Minor pothole near the shop",
+    "lat": 26.920253,
+    "lng": 75.783309,
+    "road_class": "main",
+    "hours_ago": 227.2,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "71575715-328f-57c7-9803-32959c5e91de",
+    "text": "Minor pothole near the shop",
+    "lat": 26.910605,
+    "lng": 75.793512,
+    "road_class": "secondary",
+    "hours_ago": 194.9,
+    "photo_verification": "mismatch",
+    "photo_score": 0.228
+  },
+  {
+    "client_request_id": "ba209558-af1a-5fc0-8659-047bcbc94657",
+    "text": "Small crack on the road surface",
+    "lat": 26.910789,
+    "lng": 75.78868,
+    "road_class": "secondary",
+    "hours_ago": 314.1,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "7a9c56fb-7d2d-57df-8b54-d16dea4b5d50",
+    "text": "Small crack on the road surface",
+    "lat": 26.91377,
+    "lng": 75.785041,
+    "road_class": "lane",
+    "hours_ago": 44.8,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "6f2960f6-a8d4-5305-bece-c02f6ee04ac0",
+    "text": "Deep pothole after rain, water collects here",
+    "lat": 26.92287,
+    "lng": 75.785068,
+    "road_class": "main",
+    "hours_ago": 154.5,
+    "photo_verification": "verified",
+    "photo_score": 0.899
+  },
+  {
+    "client_request_id": "223d8206-065c-5d44-8831-a94d6aacabe0",
+    "text": "Small crack on the road surface",
+    "lat": 26.906672,
+    "lng": 75.783678,
+    "road_class": "secondary",
+    "hours_ago": 313.6,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "3b6f4980-b588-55f6-80f0-883af5f02abe",
+    "text": "pothole bada hai, raat me dikhta nahi",
+    "lat": 26.916263,
+    "lng": 75.785789,
+    "road_class": "lane",
+    "hours_ago": 280.3,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "8f1f9600-184f-5833-937d-8d88cbba298f",
+    "text": "chota gaddha sadak par",
+    "lat": 26.9229,
+    "lng": 75.794082,
+    "road_class": "main",
+    "hours_ago": 224.7,
+    "photo_verification": "unverified",
+    "photo_score": 0.588
+  },
+  {
+    "client_request_id": "de8ef5fd-f654-5bd9-9e3a-4e6b0bfb15de",
+    "text": "Small crack on the road surface",
+    "lat": 26.920533,
+    "lng": 75.792655,
+    "road_class": "main",
+    "hours_ago": 299.1,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "855d7d78-892e-5828-823f-3515c9414f9c",
+    "text": "Minor pothole near the shop",
+    "lat": 26.925883,
+    "lng": 75.784477,
+    "road_class": "secondary",
+    "hours_ago": 241.4,
+    "photo_verification": "none",
+    "photo_score": null
+  },
+  {
+    "client_request_id": "5e30bbaf-e237-50a8-8bc0-ee475b95e1ac",
+    "text": "Small crack on the road surface",
+    "lat": 26.913981,
+    "lng": 75.792314,
+    "road_class": "lane",
+    "hours_ago": 85.1,
+    "photo_verification": "unverified",
+    "photo_score": 0.836
+  },
+  {
+    "client_request_id": "bf7e432d-4f9a-58ee-b912-3b4b266e203a",
+    "text": "Small crack on the road surface",
+    "lat": 26.906898,
+    "lng": 75.786518,
+    "road_class": "main",
+    "hours_ago": 2.2,
+    "photo_verification": "unverified",
+    "photo_score": 0.74
+  }
+]
